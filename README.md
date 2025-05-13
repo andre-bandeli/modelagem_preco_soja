@@ -1,5 +1,7 @@
 # Regressão Linear para Previsão do Preço da Soja
 
+![alt text](matriz_confusao.png)
+
 Este projeto realiza uma análise de regressão linear para modelar e prever o preço de fechamento da soja (`bean_settle`) com base em um conjunto de variáveis preditoras. O código utiliza bibliotecas Python como pandas para manipulação de dados, matplotlib e seaborn para visualização, scikit-learn para modelagem de regressão e métricas, e scipy.stats para análise estatística.
 
 ### dataset: [Soybean price factor data 1962-2018](https://www.kaggle.com/datasets/motorcity/soybean-price-factor-data-19622018)
@@ -44,7 +46,6 @@ O script `ModelagemPrecoSoja.py` executa as seguintes etapas:
 
 ## Resultados
 
-![alt text](matriz_confusao.png)
 ![alt text](Figure_4.png)
 ![alt text](Figure_3.png)
 
